@@ -1,4 +1,4 @@
-# 🔍 Advanced 3D Object Detection for Autonomous Driving
+# Enhancing Real-Time 3D Object Detection for Autonomous Driving via CBAM-FPN-ResNet18
 
 This repository contains the code, results, and model enhancements from our research project on 3D object detection using only LiDAR point clouds.  
 **"Enhancing Real-Time 3D Object Detection for Autonomous Driving via CBAM-FPN-ResNet18"**
@@ -180,7 +180,7 @@ python evaluate.py --ckpt outputs/cbam_model.pth
 @misc{amrutkar2024cbamsfa3d,
   author = {Chinmay Amrutkar and Jnana Venkata Subhash Boyapati and Swaraj Akurathi and Thet Htar Wai},
   title = {Enhancing Real-Time 3D Object Detection for Autonomous Driving via CBAM-FPN-ResNet18},
-  howpublished = {\url{https://github.com/ChinmayAmrutkar/3D-Object_Detection}},
+  howpublished = {\url{https://github.com/ChinmayAmrutkar/Enhancing Real-Time 3D Object Detection for Autonomous Driving via CBAM-FPN-ResNet18}},
   year = {2024}
 }
 ```
@@ -197,7 +197,7 @@ This project is released under the [MIT License](LICENSE).
 ## 📄 Additional Information
 
 For full methodology, results, architectural diagrams, and future directions, please refer to our detailed report:  
-**[Advanced_3D_Object_Detection_for_Autonomous_Driving.pdf](./Advanced_3D_Object_Detection_for_Autonomous_Driving.pdf)**
+**[Enhancing Real-Time 3D Object Detection for Autonomous Driving via CBAM-FPN-ResNet18.pdf](./Advanced_3D_Object_Detection_for_Autonomous_Driving.pdf)**
 
 ---
 
