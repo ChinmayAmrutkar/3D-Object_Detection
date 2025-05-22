@@ -197,7 +197,7 @@ This project is released under the [MIT License](LICENSE).
 ## 📄 Additional Information
 
 For full methodology, results, architectural diagrams, and future directions, please refer to our detailed report:  
-**[Enhancing Real-Time 3D Object Detection for Autonomous Driving via CBAM-FPN-ResNet18.pdf](./Advanced_3D_Object_Detection_for_Autonomous_Driving.pdf)**
+**[Enhancing Real-Time 3D Object Detection for Autonomous Driving via CBAM-FPN-ResNet18.pdf]([./Advanced_3D_Object_Detection_for_Autonomous_Driving.pdf](https://github.com/ChinmayAmrutkar/Enhancing-Real-Time-3D-Object-Detection-for-Autonomous-Driving-via-CBAM-FPN-ResNet18/blob/main/Enhancing%20Real-Time%203D%20Object%20Detection%20for%20Autonomous%20Driving%20via%20CBAM-FPN-ResNet18.pdf))**
 
 ---
 
